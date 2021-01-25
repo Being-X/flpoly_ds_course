@@ -4,20 +4,20 @@
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Legal, Ethical, and Management Issues in Technology
 
-- Course 2
+- Data Science
 
-- Course 3
+- Statistics 1
 
-- Course 4
+- Object-Oriented Programming
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Cartoons
 
-- Thing 2
+- Reading
 
 - Thing 3 as shown in this website <https://www.floridapoly.edu>
